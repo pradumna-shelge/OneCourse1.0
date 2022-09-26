@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+
+OneCourse May’22
+
+A web app built on reactJs , Google Firebase and Bootstrap 5
+● OneCourse is a web app created using React FrameWork Microsoft Visual Studio As a Development
+Environment and google Firebase as connectivity and hosting platform
+● Students spend more than $300 to learn courses of java, c++, react like these technologies but there
+are also a lot of course playlists available with the best content free of cost.
+● Main idea behind this project is to find out the best free courses available on required subjects and create
+the best route to complete that course .We gather the best Courses of all technology provided in a single website.
+
+
+ # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
